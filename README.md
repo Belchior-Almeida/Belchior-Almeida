@@ -8,11 +8,12 @@
   <img height="198" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExY3JpMzlzMmwwam1yb2xqaW52bnRuMjA3dXhvb3Bzb29uZGQ3NjlhbiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/2agI3opPEyrBvVEaVq/giphy.gif" />
 </div>
 
-<div align="right">
   <a href="https://www.linkedin.com/in/pedro-belchior-2698b7311/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="60" height="40" alt="linkedin logo" />
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="60" height="40" alt="linkedin logo"  />
   </a>
-  <a href="https://www.instagram.com/pedro_belchiorr" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="60" height="40" alt="instagram logo" />
+  <a href="https://www.instagram.com/pedro_belchiorr/" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="60" height="40" alt="instagram logo"  />
   </a>
-</div>
+
+
+
