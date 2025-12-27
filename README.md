@@ -29,10 +29,10 @@
         <img src="https://skillicons.dev/icons?i=cs,dotnet,angular,ts,js,html,css,nodejs,postgres,git,linux&theme=dark&size=24" />
       </p>
       <p>
-        <img height="120" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExY3JpMzlzMmwwam1yb2xqaW52bnRuMjA3dXhvb3Bzb29uZGQ3NjlhbiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/2agI3opPEyrBvVEaVq/giphy.gif" />
-        <img height="120" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExY3JpMzlzMmwwam1yb2xqaW52bnRuMjA3dXhvb3Bzb29uZGQ3NjlhbiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/2agI3opPEyrBvVEaVq/giphy.gif" />
-        <img height="120" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExY3JpMzlzMmwwam1yb2xqaW52bnRuMjA3dXhvb3Bzb29uZGQ3NjlhbiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/2agI3opPEyrBvVEaVq/giphy.gif" />
-        <img height="120" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExY3JpMzlzMmwwam1yb2xqaW52bnRuMjA3dXhvb3Bzb29uZGQ3NjlhbiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/2agI3opPEyrBvVEaVq/giphy.gif" />
+        <img height="115" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExY3JpMzlzMmwwam1yb2xqaW52bnRuMjA3dXhvb3Bzb29uZGQ3NjlhbiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/2agI3opPEyrBvVEaVq/giphy.gif" />
+        <img height="115" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExY3JpMzlzMmwwam1yb2xqaW52bnRuMjA3dXhvb3Bzb29uZGQ3NjlhbiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/2agI3opPEyrBvVEaVq/giphy.gif" />
+        <img height="115" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExY3JpMzlzMmwwam1yb2xqaW52bnRuMjA3dXhvb3Bzb29uZGQ3NjlhbiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/2agI3opPEyrBvVEaVq/giphy.gif" />
+        <img height="115" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExY3JpMzlzMmwwam1yb2xqaW52bnRuMjA3dXhvb3Bzb29uZGQ3NjlhbiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/2agI3opPEyrBvVEaVq/giphy.gif" />
       </p>
     </td>
     <!-- ===== RIGHT ===== -->
